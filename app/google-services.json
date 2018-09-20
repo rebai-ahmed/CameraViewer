@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1029676752778",
+    "firebase_url": "https://camera-fe23c.firebaseio.com",
+    "project_id": "camera-fe23c",
+    "storage_bucket": "camera-fe23c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029676752778:android:ffbba32f72d5de71",
+        "android_client_info": {
+          "package_name": "com.rebaiahmed.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029676752778-caj021aaoqj1hqv2hksu5qum1uumqtsl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rebaiahmed.application",
+            "certificate_hash": "783135c5e9e8a0fd020bd83ba6c604697624672d"
+          }
+        },
+        {
+          "client_id": "1029676752778-kslf43lh2hfj4re9rifeu1tq4t8t7hjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG0V06V_A-tXvOXlxRZGKsNgbbufDPm1g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029676752778-kslf43lh2hfj4re9rifeu1tq4t8t7hjs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
